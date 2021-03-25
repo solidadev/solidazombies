@@ -1,4 +1,4 @@
-//Import Contractconst SolidaBox = artifacts.require("SolidaBox");
+//Import Contract const SolidaBox = artifacts.require("SolidaBox");
 
 module.exports = function(deployer) {
 	//Deploy Contract

@@ -1,7 +1,7 @@
 {
-  "name": "solidabox",
+  "name": "solidazombies",
   "version": "0.1.0",
-  "description": "Decentralized File Storage",
+  "description": "Decentralized Zombie Game",
   "author": "dev@solida.io",
   "homepage": ".",
   "dependencies": {
